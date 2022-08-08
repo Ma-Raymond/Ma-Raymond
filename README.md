@@ -13,14 +13,12 @@
 </div> 
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
 
 <div>
   <h3> 💻 Languages and Tools </h3>
-  <p>
-    [![My Skills](https://skillicons.dev/icons?i=react,python,tensorflow,js,html,css)](https://skillicons.dev)
-  <p>
 </div> 
 
-⭐️ From [SAchu47](https://github.com/SAchu47)
+[![My Skills](https://skillicons.dev/icons?i=react,python,java,js,html,css,tensorflow,figma,aws,azure)](https://skillicons.dev)
+
+
+
