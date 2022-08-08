@@ -18,7 +18,10 @@
   <h3> 💻 Languages and Tools </h3>
 </div> 
 
+<div>
 [![My Skills](https://skillicons.dev/icons?i=react,python,java,js,html,css,tensorflow,figma,aws,azure)](https://skillicons.dev)
+</div> 
+
 
 
 
