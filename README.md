@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Raymond Ma 👋 </h1>
 <h3 align="center">🚀 Software Engineering 🚀</h3>
 <div>
-<img width = "35%" align="right" alt="PIC" height="300px" src="[dazedimg-dazedgroup.netdna-ssl.com/1024/azure/dazed-prod/1050/6/1056846.jpg](https://dazedimg-dazedgroup.netdna-ssl.com/1024/azure/dazed-prod/1050/6/1056846.jpg)" />
+<img width = "35%" align="right" alt="PIC" height="300px" src="https://dazedimg-dazedgroup.netdna-ssl.com/1024/azure/dazed-prod/1050/6/1056846.jpg" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
