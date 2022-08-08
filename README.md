@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hey there! I'm Raymond Ma 👋 </h1>
+<h3 align="center">🚀 Software Engineering 🚀</h3>
+<div>
+<img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
+<div align="left"> 
+  <h3> 👨🏻‍💻 About Me </h3>
 
-<!--
-**Ma-Raymond/Ma-Raymond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - 🤔 &nbsp; Exploring new technologies and developing software solutions.
+  - 🎓 &nbsp; Studying Software Engineering.
+  - 💼 &nbsp; I’m currently working on Full Stack Development projects.
+  - 🌱 &nbsp; Learning more about Cloud and Python.
+  - ✍️ &nbsp; Pursuing 3D Art as a hobby/side hustle.  
+</div> 
+</div>
 
-Here are some ideas to get you started:
+<div>
+  <h3> 💻 Languages and Tools </h3>
+  <p>
+    [![My Skills](https://skillicons.dev/icons?i=react,python,tensorflow,js,html,css)](https://skillicons.dev)
+  <p>
+</div> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ From [SAchu47](https://github.com/SAchu47)
