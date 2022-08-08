@@ -17,7 +17,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,python,java,js,html,css,tensorflow,figma,aws,azure)](https://skillicons.dev)
 
-# Contact
+# Connect with me!
 <a href="https://www.linkedin.com/in/raymond-ma03/">Check out my Linkedin!</a>
 
 
