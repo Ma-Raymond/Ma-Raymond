@@ -9,7 +9,7 @@
   - 🎓 &nbsp; Studying Software Engineering.
   - 💼 &nbsp; I’m currently focusing on school and working on projects!
   - 🌱 &nbsp; Learning more about Cloud and Python.
-  - ✍️ &nbsp; Pursuing 3D Art as a hobby/side hustle.  
+  - ✍️ &nbsp; Pursuing 3D Design as a hobby/side hustle.  
 </div> 
 </div>
 
