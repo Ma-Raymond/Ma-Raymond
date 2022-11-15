@@ -1,6 +1,6 @@
 <h1 align="center">Hello! I'm Raymond Ma 👋 </h1>
 <h3 align="center">🚀 Software Engineering Student 🚀</h3>
-raymondma.ca
+<p align="center"><a href="https://raymondma.ca/">raymondma.ca</a></p>
 <div>
 <img width = "35%" align="right" alt="PIC" height="250px" src="https://dazedimg-dazedgroup.netdna-ssl.com/1024/azure/dazed-prod/1050/6/1056846.jpg" />
 <div align="left"> 
