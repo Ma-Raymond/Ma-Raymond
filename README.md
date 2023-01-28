@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Software Engineering Student 🚀</h3>
 <p align="center"><a href="https://raymondma.ca/">raymondma.ca</a></p>
 <div>
-<img width = "35%" align="right" alt="PIC" height="250px" src="https://dazedimg-dazedgroup.netdna-ssl.com/1024/azure/dazed-prod/1050/6/1056846.jpg" />
+<img width = "35%" align="right" alt="PIC" height="250px" src="https://i.pinimg.com/originals/69/52/5c/69525cbdbdcd33fa3127509876a0368c.jpg" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me!</h3>
 
