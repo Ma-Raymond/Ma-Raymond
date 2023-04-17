@@ -8,7 +8,7 @@
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions.
   - 🎓 &nbsp; Studying Software Engineering.
-  - 💼 &nbsp; I’m currently focusing on school and working on projects!
+  - 💼 &nbsp; I’m currently focusing on school and working on side-projects!
   - 🌱 &nbsp; Learning more about Cloud Computing and AI.
   - ✍️ &nbsp; Pursuing 3D Design as a hobby/side hustle.  
 </div> 
