@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Raymond Ma 👋 </h1>
-<h3 align="center">🚀 Engineering Intern @ Cohere | Software Engineering Student 🚀</h3>
+<h3 align="center">Engineer Intern @ Cohere | Software Engineering Student</h3>
 <p align="center"><a href="https://raymondma.ca/">raymondma.ca</a></p>
 <div>
 <img width = "35%" align="right" alt="PIC" height="22%" src="https://i.pinimg.com/originals/69/52/5c/69525cbdbdcd33fa3127509876a0368c.jpg" />
