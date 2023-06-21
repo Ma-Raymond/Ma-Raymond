@@ -7,9 +7,9 @@
   <h3> 👨🏻‍💻 About Me!</h3>
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-  - 🎓 &nbsp; Studying Software Engineering and Developer.
-  - 💼 &nbsp; I’m currently focusing on school and working on side-projects!
-  - 🌱 &nbsp; Learning more about Cloud Computing and AI.
+  - 🎓 &nbsp; Studying Software Engineering.
+  - 💼 &nbsp; I’m currently focusing on work and learning as much as I can!
+  - 🌱 &nbsp; Learning more about Artificial Intelligence and Natural Language Processing.
   - ✍️ &nbsp; Pursuing 3D Design as a hobby/side hustle.  
 </div> 
 </div>
