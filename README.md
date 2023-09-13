@@ -10,7 +10,7 @@
   - 🎓 &nbsp; Studying Software Engineering.
   - 💼 &nbsp; I’m currently focusing on work and learning as much as I can!
   - 🌱 &nbsp; Learning more about Artificial Intelligence and Natural Language Processing.
-  - ✍️ &nbsp; Pursuing 3D Design & Game Development as a passion hustle.  
+  - ✍️ &nbsp; Pursuing 3D Design & Game Development as a passion hussle.  
 </div> 
 </div>
 
