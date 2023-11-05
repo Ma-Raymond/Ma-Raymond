@@ -6,7 +6,7 @@
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me!</h3>
 
-  - 🤔 &nbsp; Exploring new technologies and developing software solutions.
+  - 🤔 &nbsp; Exploring & Learning new things! 
   - 🎓 &nbsp; Studying Software Engineering.
   - 💼 &nbsp; I’m currently focusing on work and learning as much as I can!
   - 🌱 &nbsp; Learning more about Artificial Intelligence and Natural Language Processing.
