@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Raymond Ma 👋 </h1>
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Hi+I'm+Raymond!;Welcome+to+my+Github+%3C3)](https://git.io/typing-svg)
 <h3 align="center">Software Engineer Intern @ Cohere | Software Engineering Student</h3>
 <p align="center"><a href="https://raymondma.ca/">raymondma.ca</a></p>
 <div>
