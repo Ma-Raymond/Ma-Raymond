@@ -22,5 +22,6 @@
 [![My Skills](https://skillicons.dev/icons?i=react,python,java,js,html,css,tensorflow,figma,aws,azure)](https://skillicons.dev)
 
 <h3> 🤝 Connect with me! </h3>
+
 <a href="https://www.linkedin.com/in/ma-raymond/" >![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 </a>
