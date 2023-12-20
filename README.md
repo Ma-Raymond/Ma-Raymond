@@ -5,7 +5,7 @@
   <h3> 👨🏻‍💻 Some facts about me!</h3>
   <p>I'm currently:</p>
  
-  - 💻 &nbsp; Machine Learning @ Cohere
+  - 💻 &nbsp; SWE Intern @ Cohere
   - 🎓 &nbsp; 3rd Year Software Engineering @ McMaster
   - 🌱 &nbsp; Learning about Artificial Intelligence and Natural Language Processing
 
