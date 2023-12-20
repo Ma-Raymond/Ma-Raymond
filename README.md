@@ -11,7 +11,7 @@
 
   <p>Previously:</p>
   
-  - 👾 &nbsp; Game Development & 3D Design @ Roblox
+  - 👾 &nbsp; Game Development @ Roblox
   - 🤖 &nbsp; Startup Accelerator Fellow @ Microsoft
 
 </div> 
