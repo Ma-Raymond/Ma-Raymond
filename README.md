@@ -6,7 +6,7 @@
   <p>I'm currently:</p>
  
   - 💻 &nbsp; Machine Learning @ Cohere
-  - 🎓 &nbsp; 3rd Year Software Engineering @ McMaster
+  - 🎓 &nbsp; Software Engineering @ McMaster
   - 🌱 &nbsp; Learning about Artificial Intelligence and Natural Language Processing
 
   <p>Previously:</p>
