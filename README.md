@@ -5,12 +5,13 @@
   <h3> 👨🏻‍💻 Some facts about me!</h3>
   <p>I'm currently:</p>
  
-  - 💻 &nbsp; Machine Learning @ Cohere
+  - 💻 &nbsp; Engineering @ OpenAI
   - 🎓 &nbsp; Software Engineering @ McMaster
   - 🌱 &nbsp; Learning about Artificial Intelligence and Natural Language Processing
 
   <p>Previously:</p>
   
+  - ⚙️ &nbsp; Machine Learning @ Cohere
   - 👾 &nbsp; Game Development @ Roblox
   - 🤖 &nbsp; Startup Accelerator Fellow @ Microsoft
 
