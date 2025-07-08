@@ -1,13 +1,12 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Hi+I'm+Raymond!;Welcome+to+my+Github+%3C3)](https://git.io/typing-svg)
 <div>
-<img width = "35%" align="right" alt="PIC" height="22%" src="https://i.pinimg.com/originals/69/52/5c/69525cbdbdcd33fa3127509876a0368c.jpg" />
+<img align="right" alt="PIC" width="30%" height="200%" style="object-fit: cover;"  src="https://i.pinimg.com/originals/69/52/5c/69525cbdbdcd33fa3127509876a0368c.jpg" />
 <div align="left"> 
-  <h3> 👨🏻‍💻 Some facts about me!</h3>
+  <h3> 👨🏻‍💻 About Me!</h3>
   <p>I'm currently:</p>
  
-  - 💻 &nbsp; Engineering @ OpenAI
+  - <img src="https://github.com/user-attachments/assets/d63420ed-84ac-4326-8166-e82dbba25eb8" alt="PIC" width="15" height="15" style="object-fit: cover;" /> &nbsp; Engineering @ OpenAI
   - 🎓 &nbsp; Software Engineering @ McMaster
-  - 🌱 &nbsp; Learning about Artificial Intelligence and Natural Language Processing
 
   <p>Previously:</p>
   
@@ -17,10 +16,6 @@
 
 </div> 
 </div>
-
-<h3> 💻 Languages and Tools </h3>
-
-[![My Skills](https://skillicons.dev/icons?i=react,python,java,js,html,css,tensorflow,figma,aws,azure)](https://skillicons.dev)
 
 <h3> 🤝 Connect with me! </h3>
 
